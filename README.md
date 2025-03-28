@@ -4,7 +4,7 @@
 
 🎓 Estudante de Engenharia de Software  
 📍 Teresina - PI, Brasil  
-📚 Apaixonado por aprender e explorar áreas como:
+📚 Tenho interesse em:
 - ⚙️ DevOps
 - ☁️ Cloud Computing
 - 🤖 LLMOps
