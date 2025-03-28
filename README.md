@@ -36,11 +36,5 @@
 
 ---
 
-## 🐍 Cobrinha passando no gráfico
-
-![Snake animation](https://github.com/luisg0c/luisg0c/blob/output/github-contribution-grid-snake.svg)
-
----
-
 > “Deploy constante, aprendizado contínuo.” ☁️🧠🚀
 
