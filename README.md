@@ -50,4 +50,4 @@ Atualmente, estou aprofundando meus estudos em:
 
 ---
 
-> “Deploy constante, aprendizado contínuo.” ☁️🧠🚀
+> “Deploy constante, aprendizado contínuo.” ☁️🧠
