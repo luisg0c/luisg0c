@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luis%20Gustavo%20Olimpio&fontSize=30&fontAlignY=40&desc=DevOps%20%7C%20Cloud%20%7C%20LLMOps%20%7C%20Observability&descSize=18&descAlignY=60" alt="banner" />
 
-# Fala, eu sou o Luis Gustavo Olimpio!
+# Fala, eu sou o Luis Gustavo!
 
 🎓 Estudante de Engenharia de Software  
 📍 Teresina - PI, Brasil  
