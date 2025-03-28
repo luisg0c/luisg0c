@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luis%20Gustavo%20Olimpio&fontSize=30&fontAlignY=40&desc=DevOps%20%7C%20Cloud%20%7C%20LLMOps%20%7C%20Observability&descSize=18&descAlignY=60" alt="banner" />
 
-# 👋 Fala, eu sou o Luis Gustavo Olimpio!
+# Fala, eu sou o Luis Gustavo Olimpio!
 
 🎓 Estudante de Engenharia de Software  
 📍 Teresina - PI, Brasil  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou movido pela curiosidade em entender como a tecnologia funciona por trás dos bastidores. Tenho grande interesse por ambientes em nuvem, automação e práticas modernas de DevOps.
 
@@ -24,7 +24,7 @@ Atualmente, estou aprofundando meus estudos em:
 
 ---
 
-## 🚀 Tecnologias que venho estudando
+## Tecnologias que venho estudando
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
