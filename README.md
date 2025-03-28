@@ -48,8 +48,6 @@
 
 ---
 
-## 🧩 Um toque de personalidade
-
 ![Linux is love](https://img.shields.io/badge/Linux-Is%20Love-black?style=for-the-badge&logo=linux)
 ![Code and Coffee](https://img.shields.io/badge/☕-Code%20%26%20Caffeine-black?style=for-the-badge)
 ![DevOps 4 Life](https://img.shields.io/badge/DevOps-4%20Life-0f0?style=for-the-badge&logo=githubactions)
@@ -62,8 +60,6 @@
 ![Luis Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisg0c&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisg0c&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisg0c&theme=tokyonight)
 
 ---
 
