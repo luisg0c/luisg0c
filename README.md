@@ -63,12 +63,3 @@
 
 ---
 
-## 📫 Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-usuario-aqui)
-<!-- Substitua acima quando quiser divulgar -->
-
----
-
-> _“Aprender é o melhor deploy que a gente faz em nós mesmos.”_  
-> — Eu mesmo, com café na mão ☕
