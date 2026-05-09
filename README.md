@@ -57,21 +57,6 @@ spec:
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisg0c&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisg0c&theme=tokyonight" /> |
-| --- | --- |
-
-<img src="https://streak-stats.demolab.com/?user=luisg0c&theme=tokyonight&hide_border=true&background=00000000" width="500" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisg0c&theme=tokyonight" width="700" />
-
-</div>
-
----
-
 <div align="center">
 
 > *"Deploy constante, aprendizado continuo."*
