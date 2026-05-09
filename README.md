@@ -61,18 +61,12 @@ spec:
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=luisg0c&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisg0c&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="340" /> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisg0c&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisg0c&theme=tokyonight" /> |
 | --- | --- |
 
 <img src="https://streak-stats.demolab.com/?user=luisg0c&theme=tokyonight&hide_border=true&background=00000000" width="500" />
 
-</div>
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisg0c&theme=tokyo-night&hide_border=true&bg_color=00000000)](https://github.com/luisg0c)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisg0c&theme=tokyonight" width="700" />
 
 </div>
 
