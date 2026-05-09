@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;DevOps+%7C+Cloud+Native+%7C+IaC;LLMOps+%7C+Observabilidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;DevOps+%7C+Cloud+Native+%7C+IaC;LLMOps+%7C+Observabilidade;Processos+%7C+Agile+%7C+BPMN)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=luisg0c&color=7AA2F7&style=flat-square&label=visitors)](https://github.com/luisg0c)
 
@@ -23,10 +23,13 @@ spec:
     - LLMOps
     - Observabilidade
     - Infraestrutura como Codigo
+    - Engenharia de Processos & Metodos Ageis
   currently_learning:
     - Arquiteturas em nuvem & IaC
     - Deploy e versionamento de LLMs
     - Metricas, logs e tracing
+    - Modelagem de processos (BPMN)
+    - Scrum & Kanban
 ```
 
 ---
@@ -52,6 +55,28 @@ spec:
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Processos & Agile**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+</div>
+
+---
+
+### Currently Working On
+
+- Estudando modelagem de processos com **BPMN**
+- Praticando **IaC** com Terraform + AWS
+- Explorando pipelines de deploy para **LLMs**
+
+---
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
